@@ -1,5 +1,6 @@
-# RFC: Building Nudgebee – Building a Contributor Ecosystem
-
+> **Status:** Proposed — submitted to (https://github.com/nudgebee/nudgebee/)](#459)  
+> **Author:** Anup Kankale ([@Anupkankale](https://github.com/Anupkankale))  
+> **Date:** June 2026
 #  Overview
 
 As Nudgebee continues to grow across multiple domains including Frontend, Backend, AI/ML, Kubernetes, DevOps, and Documentation there is an opportunity to further improve the contributor experience.
